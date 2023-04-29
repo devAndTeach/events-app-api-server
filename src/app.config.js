@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Deloitte Cloud Engineers';
-    version = '1.0.0';
+    team = 'Deloitte Cloud Engineers - new feature added';
+    version = '1.1.0';
 }
 module.exports = AppConfig;
